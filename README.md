@@ -1,1 +1,1 @@
-Contains a Lexical Analyser that reads a given file and determines tokens in a given language.
+Contains a Lexical Analyser that reads a given file and recognizing and outputting TINY tokens.
